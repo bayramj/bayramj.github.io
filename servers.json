@@ -54,4 +54,8 @@
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
+}, 
+{
+    "name": "bayramj",   
+    "address": "https://anisette-v3-server-2jae.onrender.com"
 }
